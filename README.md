@@ -26,7 +26,7 @@ I am Ariana Villegas 😃. I am from Cajamarca, Perú and currently doing my und
 
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ArianaVillegas&hide=["issues"]&show_icons=true)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
