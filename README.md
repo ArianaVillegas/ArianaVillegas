@@ -1,33 +1,13 @@
-<h2> Hello there, I'm Ariana Villegas! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# 👋 Welcome to my Github Repository!
+Hi there, I'm Ariana Villegas, a passionate computer science student with a keen interest in machine learning. In this repository, you'll find some of my 🤖 projects, 📝 research papers, and 💻 code snippets related to various areas of machine learning.
 
-I am Ariana Villegas 😃. I am from Cajamarca, Perú and currently doing my undergradate program at University of Engineering and Technology 🏫. I love to explore and learn about new things.
+## 👩‍💻 About Me
+I'm originally from Cajamarca, Peru, and currently pursuing my undergraduate degree in Computer Science at the University of Engineering and Technology, and my master's degree in Computer Science at the University of New Mexico. I love exploring new technologies, solving complex problems, and sharing my knowledge with others.
 
-<h3>🚀 Some Tools I Use</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="C" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-</p>
+## 🌟 Areas of Interest
+My primary focus is on machine learning, with a particular interest in computer vision, time series analysis, and reinforcement learning. I'm also interested in the latest developments in natural language processing, deep learning, and big data.
 
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+## 📞 Contact Me
+I'm always open to collaboration and networking opportunities. Feel free to reach out to me via email at arianavssz25@gmail.com or connect with me on LinkedIn.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ArianaVillegas&hide=["issues"]&show_icons=true)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
-
----
+**Thank you for visiting my Github repository!**
