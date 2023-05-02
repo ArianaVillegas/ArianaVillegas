@@ -1,5 +1,5 @@
 # 👋 Welcome to my Github Repository!
-Hi there, I'm Ariana Villegas, a passionate computer science student with a keen interest in machine learning. In this repository, you'll find some of my 🤖 projects, 📝 research papers, and 💻 code snippets related to various areas of machine learning.
+Hi there, I'm Ariana Villegas, a passionate computer science student with a keen interest in machine learning. In this repository, you'll find some of my 🤖 projects, and 💻 code snippets related to various areas of machine learning.
 
 ## 👩‍💻 About Me
 I'm originally from Cajamarca, Peru, and currently pursuing my undergraduate degree in Computer Science at the University of Engineering and Technology, and my master's degree in Computer Science at the University of New Mexico. I love exploring new technologies, solving complex problems, and sharing my knowledge with others.
