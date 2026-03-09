@@ -1,6 +1,6 @@
 # Ariana M. Villegas Suárez
 
-**ML Engineer & Researcher** | Multi-Agent Systems | Mechanistic Interpretability
+**ML Engineer & Researcher** | AI Safety | Multi-Agent Systems
 
 Building production ML systems and researching how neural networks learn and coordinate. Interested in understanding model internals to build safer, more reliable AI.
 
@@ -8,7 +8,7 @@ MS Computer Science, University of New Mexico (2024)
 
 ## Research Interests
 
-- **Mechanistic Interpretability** — Understanding learned representations and decision-making in neural networks
+- **AI Safety** — Studying how sycophantic behavior emerges in reasoning models, focusing on CoT faithfulness and what truncated reasoning chains reveal about model internals
 - **Multi-Agent Systems** — Coordination, communication, and emergent behavior in RL agents  
 - **Reinforcement Learning** — Value estimation, exploration strategies, RLHF
 
